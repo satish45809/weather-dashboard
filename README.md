@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
+# DESCRIPTION:
 
 A responsive weather dashboard built with **React** and the **OpenWeatherMap API**. Enter any city name to see the current temperature, weather condition, humidity, and wind speed.
 
