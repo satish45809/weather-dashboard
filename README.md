@@ -19,7 +19,6 @@ A responsive weather dashboard built with **React** and the **OpenWeatherMap API
 ##  Features
 - Live API data
 - Responsive UI
-- Clean animated design
 - Error handling for invalid cities
 
 **#OUTPUT**
