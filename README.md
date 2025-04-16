@@ -21,4 +21,6 @@ A responsive weather dashboard built with **React** and the **OpenWeatherMap API
 - Clean animated design
 - Error handling for invalid cities
 
+**#OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/8cb43fdf-7560-41dc-8f53-b1953b0286b8)
