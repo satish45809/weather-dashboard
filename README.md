@@ -16,7 +16,7 @@
 
 The Weather Dashboard is a responsive React application that allows users to easily check real-time weather information for any location by inputting a city or region. The app fetches and displays detailed weather data from a reliable weather API, offering an intuitive and clean interface for users to access essential weather information quickly.
 
-Key Features:
+## Key Features:
 
 1.Location Search: Users can input a city or region to retrieve real-time weather data, including temperature, humidity, wind speed, and weather conditions (e.g., clear skies, rain, clouds).
 
